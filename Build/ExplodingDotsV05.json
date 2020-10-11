@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Grape Codes",
+"productVersion": "0.1",
+"dataUrl": "ExplodingDotsV05.data.unityweb",
+"wasmCodeUrl": "ExplodingDotsV05.wasm.code.unityweb",
+"wasmFrameworkUrl": "ExplodingDotsV05.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
